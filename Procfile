@@ -1,1 +1,1 @@
-web: python main.py
+web: mercury run 0.0.0.0:$PORT
