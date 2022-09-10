@@ -3,6 +3,7 @@ import chromedriver_autoinstaller
 import os
 
 #chromedriver_autoinstaller.install()
+#yo
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
